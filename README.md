@@ -35,9 +35,6 @@
 
 **中文示例：**
 ```
-帮我整理2026年以来美国、法国、德国媒体记者对割草机器人的评测报告
-```
-```
 我要给日本和美国媒体发空气净化器，先帮我了解一下各国媒体生态
 ```
 ```
@@ -100,7 +97,6 @@ Who are the key reviewers covering smart home products in the UK?
 
 以下品类已经过实际测试，效果良好：
 
-- 🌿 割草机器人（Robot Lawn Mower）
 - 🤖 扫地机器人（Robot Vacuum）
 - 💨 空气净化器（Air Purifier）
 
